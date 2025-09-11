@@ -1002,6 +1002,7 @@ height: 30px;
 .work-steps{
   padding: var(--section-padding) 0;
   background-color: #ececec;
+  overflow: hidden;
 }
 .work-steps .container{
   display: flex;
